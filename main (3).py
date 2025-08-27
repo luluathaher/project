@@ -1,4 +1,4 @@
-appointments = []  # list to store appointments
+appointments = []  
 while True:
     print("1. Add appointment")
     print("2. Show appointments")
@@ -43,3 +43,4 @@ while True:
 
     else:
         print("Invalid choice, please enter 1-4.\n")
+
